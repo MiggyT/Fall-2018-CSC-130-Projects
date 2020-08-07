@@ -1,2 +1,2 @@
-# Fall-2018-CSC-130-Projects
-These are the projects i did for my Data Structures and Algorithm,Analysis 
+# Data Structures Algorithim Analysis CSC130
+This repository contains all the major projects that I have completed for my computer science course CSC 130. Note that there are fewer projects here becuase the Northern California fire's that occurred a couple years ago affected class assignments. This class gave me an understanding of complex data stuctures in Java and taught me how to analyze algorithms. Grade recieved: A
